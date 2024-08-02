@@ -2,6 +2,7 @@
 2.streams disadvantages
 3.synchrioniztion
 4.how can we change default embedded tomcat from spring boot 
+-exclude  the tomcat dependency from the starter web and add Jetty dependency 
 5.if procedure throws exception in Java how it should be handled.
 6.group by streams functions 
 7.jvm memory management
