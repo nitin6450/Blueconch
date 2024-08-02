@@ -1,4 +1,7 @@
 1.Internal working of hashmap and hashset
+- rehashing
+-load factor
+-collision
 2.streams disadvantages
 3.synchrioniztion
 4.how can we change default embedded tomcat from spring boot 
